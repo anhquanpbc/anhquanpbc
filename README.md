@@ -1,6 +1,6 @@
 ## Hi there, you can call me ``Mike`` if you don't ``mind`` XD 👋
 
-<a href="https://anhquanpbc.github.io/aboutme/">Personal site🫶🏻</a>
+<a href="https://anhquanpbc.github.io/aboutme/">Personal site</a>
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anhquanpbc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 -->
